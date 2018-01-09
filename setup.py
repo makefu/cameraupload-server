@@ -4,7 +4,7 @@ import sys
 
 setup(
     name='cameraupload-server',
-    version='0.2.4',
+    version='0.2.5',
 
     description='receives images from cameraupload_full',
     long_description=open("README.md").read(),
