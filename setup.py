@@ -3,7 +3,7 @@ from setuptools import setup
 import sys
 
 setup(
-    name='cameraupload-',
+    name='cameraupload-server',
     version='0.2.3',
 
     description='receives images from cameraupload_full',
