@@ -1,0 +1,6 @@
+# flask
+DEBUG = True
+
+MAX_CONTENT_LENGTH = 20971520 # 20MB
+
+STOREDIR = './storage'
